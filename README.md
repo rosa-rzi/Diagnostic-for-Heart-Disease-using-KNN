@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100" height="100" src="https://github.com/rosa-rzi/Diagnostic-for-Heart-Disease-using-KNN/blob/6d08b0ae412e8054515e095518059517b936eedc/images/heart-rate%20(3).png">
+</p>
+
 # Determing the Risk of Heart Disease using KNN
 >  Programming language: R
 
