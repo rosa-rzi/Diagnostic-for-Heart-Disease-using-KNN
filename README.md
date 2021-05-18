@@ -1,4 +1,4 @@
-# Determing the risk of Heart Disease
+# Determing the risk of Heart Disease 
 This project goal is to predict whether someone is at risk for heart disease or not using KNN (K Nearest Neighbors) algorithm with an accuracy of 88%.
 
 Summary:
@@ -46,8 +46,14 @@ Our question
 At a glance
 ---
 
-  1. Load data
-  2. Clean data
-  3. Split data into training and testing set
-  4. Choose K
-  5. Assess model
+  **1. Load data**
+      ![image1](https://github.com/rosa-rzi/Diagnostic-for-Heart-Disease-using-KNN/blob/e6b4455b0a59ffae3c2d342eba66e911fbca9999/images/Screen%20Shot%202021-05-18%20at%2011.38.46%20AM.png)
+  **2. Clean data**
+      ![image2](https://github.com/rosa-rzi/Diagnostic-for-Heart-Disease-using-KNN/blob/e6b4455b0a59ffae3c2d342eba66e911fbca9999/images/Screen%20Shot%202021-05-18%20at%2011.38.15%20AM.png)
+      ![image3](https://github.com/rosa-rzi/Diagnostic-for-Heart-Disease-using-KNN/blob/e6b4455b0a59ffae3c2d342eba66e911fbca9999/images/Screen%20Shot%202021-05-18%20at%2011.39.21%20AM.png)
+  **3. Split data into training and testing set**
+  **4. Choose K**
+      ![image4](https://github.com/rosa-rzi/Diagnostic-for-Heart-Disease-using-KNN/blob/e6b4455b0a59ffae3c2d342eba66e911fbca9999/images/kVisualization.png)
+      ![image5](https://github.com/rosa-rzi/Diagnostic-for-Heart-Disease-using-KNN/blob/e6b4455b0a59ffae3c2d342eba66e911fbca9999/images/Screen%20Shot%202021-05-18%20at%2011.42.20%20AM.png)
+  **5. Assess model**
+      ![image6](https://github.com/rosa-rzi/Diagnostic-for-Heart-Disease-using-KNN/blob/e6b4455b0a59ffae3c2d342eba66e911fbca9999/images/Screen%20Shot%202021-05-18%20at%2011.42.53%20AM.png)
