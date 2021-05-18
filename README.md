@@ -1,6 +1,8 @@
 # Determing the Risk of Heart Disease using KNN
 >  Programming language: R
 
+> IDE: Jupyter Notebook
+
 >  Packages: tidyverse, caret, ggplot2, forcats, GGally
 
 This project goal is to predict whether someone is at risk for heart disease or not using KNN (K Nearest Neighbors) algorithm.
