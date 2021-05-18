@@ -1,5 +1,9 @@
-# Determing the risk of Heart Disease 
-This project goal is to predict whether someone is at risk for heart disease or not using KNN (K Nearest Neighbors) algorithm with an accuracy of 88%.
+# Determing the Risk of Heart Disease using KNN
+>  Programming language: R
+
+>  Packages: tidyverse, caret, ggplot2, forcats, GGally
+
+This project goal is to predict whether someone is at risk for heart disease or not using KNN (K Nearest Neighbors) algorithm.
 
 Summary:
 - _**Load and clean dateset**_ by assigning column names and removing observations with missing values
